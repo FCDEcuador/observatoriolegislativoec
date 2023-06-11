@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<catalognumber><![CDATA[Catalog Number]]></catalognumber>
+		<undefined1><![CDATA[Catalog Image]]></undefined1>
+		<undefined2><![CDATA[Component Number]]></undefined2>
+		<undefined3><![CDATA[Casting Desc]]></undefined3>
+		<undefined4><![CDATA[Weight (Don't need as filter, just on product page)]]></undefined4>
+		<dimensions><![CDATA[Height]]></dimensions>
+		<undefined6><![CDATA[Body Diameter]]></undefined6>
+		<undefined7><![CDATA[Base Diameter]]></undefined7>
+		<bodytype><![CDATA[Body Type]]></bodytype>
+		<captype><![CDATA[Cap Type]]></captype>
+		<mountingoption><![CDATA[Mounting Option]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43AA]]></catalognumber>
+		<undefined1><![CDATA[R-8401-43AA.jpg]]></undefined1>
+		<undefined2><![CDATA[84004001]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43AA]]></catalognumber>
+		<undefined1><![CDATA[R-8401-43AA.jpg]]></undefined1>
+		<undefined2><![CDATA[84014301]]></undefined2>
+		<undefined3><![CDATA[Bollard]]></undefined3>
+		<undefined4><![CDATA[114]]></undefined4>
+		<dimensions><![CDATA[40 15/16]]></dimensions>
+		<undefined6><![CDATA[5 5/8]]></undefined6>
+		<undefined7><![CDATA[10 15/16]]></undefined7>
+		<bodytype><![CDATA[Fluted]]></bodytype>
+		<captype><![CDATA[A]]></captype>
+		<mountingoption><![CDATA[Option A]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43AB]]></catalognumber>
+		<undefined1><![CDATA[R-8401-43AB.jpg]]></undefined1>
+		<undefined2><![CDATA[84004001]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43AB]]></catalognumber>
+		<undefined1><![CDATA[R-8401-43AB.jpg]]></undefined1>
+		<undefined2><![CDATA[84014302]]></undefined2>
+		<undefined3><![CDATA[Bollard]]></undefined3>
+		<undefined4><![CDATA[94]]></undefined4>
+		<dimensions><![CDATA[40 15/16]]></dimensions>
+		<undefined6><![CDATA[5 5/8]]></undefined6>
+		<undefined7><![CDATA[8]]></undefined7>
+		<bodytype><![CDATA[Fluted]]></bodytype>
+		<captype><![CDATA[A]]></captype>
+		<mountingoption><![CDATA[Option A]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43AC]]></catalognumber>
+		<undefined1><![CDATA[R-8401-43AC.jpg]]></undefined1>
+		<undefined2><![CDATA[84004001]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43AC]]></catalognumber>
+		<undefined1><![CDATA[R-8401-43AC.jpg]]></undefined1>
+		<undefined2><![CDATA[84014303]]></undefined2>
+		<undefined3><![CDATA[Bollard]]></undefined3>
+		<undefined4><![CDATA[82]]></undefined4>
+		<dimensions><![CDATA[40 15/16]]></dimensions>
+		<undefined6><![CDATA[5 5/8]]></undefined6>
+		<undefined7><![CDATA[10 1/2]]></undefined7>
+		<bodytype><![CDATA[Fluted]]></bodytype>
+		<captype><![CDATA[A]]></captype>
+		<mountingoption><![CDATA[Option A]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8402-43AA]]></catalognumber>
+		<undefined1><![CDATA[R-8402-43AA.jpg]]></undefined1>
+		<undefined2><![CDATA[84004001]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8402-43AA]]></catalognumber>
+		<undefined1><![CDATA[R-8402-43AA.jpg]]></undefined1>
+		<undefined2><![CDATA[84024301]]></undefined2>
+		<undefined3><![CDATA[Bollard]]></undefined3>
+		<undefined4><![CDATA[114]]></undefined4>
+		<dimensions><![CDATA[40 15/16]]></dimensions>
+		<undefined6><![CDATA[5 5/8]]></undefined6>
+		<undefined7><![CDATA[10 15/16]]></undefined7>
+		<bodytype><![CDATA[Plain]]></bodytype>
+		<captype><![CDATA[A]]></captype>
+		<mountingoption><![CDATA[Option A]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8402-43AB]]></catalognumber>
+		<undefined1><![CDATA[R-8402-43AB.jpg]]></undefined1>
+		<undefined2><![CDATA[84004001]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8402-43AB]]></catalognumber>
+		<undefined1><![CDATA[R-8402-43AB.jpg]]></undefined1>
+		<undefined2><![CDATA[84024302]]></undefined2>
+		<undefined3><![CDATA[Bollard]]></undefined3>
+		<undefined4><![CDATA[94]]></undefined4>
+		<dimensions><![CDATA[40 15/16]]></dimensions>
+		<undefined6><![CDATA[5 3/8]]></undefined6>
+		<undefined7><![CDATA[8]]></undefined7>
+		<bodytype><![CDATA[Plain]]></bodytype>
+		<captype><![CDATA[A]]></captype>
+		<mountingoption><![CDATA[Option A]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8402-43AC]]></catalognumber>
+		<undefined1><![CDATA[R-8402-43AC.jpg]]></undefined1>
+		<undefined2><![CDATA[84004001]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8402-43AC]]></catalognumber>
+		<undefined1><![CDATA[R-8402-43AC.jpg]]></undefined1>
+		<undefined2><![CDATA[84024303]]></undefined2>
+		<undefined3><![CDATA[Bollard]]></undefined3>
+		<undefined4><![CDATA[82]]></undefined4>
+		<dimensions><![CDATA[40 15/16]]></dimensions>
+		<undefined6><![CDATA[5 3/8]]></undefined6>
+		<undefined7><![CDATA[10 1/2]]></undefined7>
+		<bodytype><![CDATA[Plain]]></bodytype>
+		<captype><![CDATA[A]]></captype>
+		<mountingoption><![CDATA[Option A]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43BA]]></catalognumber>
+		<undefined1><![CDATA[R-8401-43BA.jpg]]></undefined1>
+		<undefined2><![CDATA[84004002]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43BA]]></catalognumber>
+		<undefined1><![CDATA[R-8401-43BA.jpg]]></undefined1>
+		<undefined2><![CDATA[84014301]]></undefined2>
+		<undefined3><![CDATA[Bollard]]></undefined3>
+		<undefined4><![CDATA[108]]></undefined4>
+		<dimensions><![CDATA[38]]></dimensions>
+		<undefined6><![CDATA[5 5/8]]></undefined6>
+		<undefined7><![CDATA[10 15/16]]></undefined7>
+		<bodytype><![CDATA[Fluted]]></bodytype>
+		<captype><![CDATA[B]]></captype>
+		<mountingoption><![CDATA[Option B]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43BB]]></catalognumber>
+		<undefined1><![CDATA[R-8401-43BB.jpg]]></undefined1>
+		<undefined2><![CDATA[84004002]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43BB]]></catalognumber>
+		<undefined1><![CDATA[R-8401-43BB.jpg]]></undefined1>
+		<undefined2><![CDATA[84014302]]></undefined2>
+		<undefined3><![CDATA[Bollard]]></undefined3>
+		<undefined4><![CDATA[88]]></undefined4>
+		<dimensions><![CDATA[38]]></dimensions>
+		<undefined6><![CDATA[5 5/8]]></undefined6>
+		<undefined7><![CDATA[8]]></undefined7>
+		<bodytype><![CDATA[Fluted]]></bodytype>
+		<captype><![CDATA[B]]></captype>
+		<mountingoption><![CDATA[Option B]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43BC]]></catalognumber>
+		<undefined1><![CDATA[R-8401-43BC.jpg]]></undefined1>
+		<undefined2><![CDATA[84004002]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43BC]]></catalognumber>
+		<undefined1><![CDATA[R-8401-43BC.jpg]]></undefined1>
+		<undefined2><![CDATA[84014303]]></undefined2>
+		<undefined3><![CDATA[Bollard]]></undefined3>
+		<undefined4><![CDATA[76]]></undefined4>
+		<dimensions><![CDATA[38]]></dimensions>
+		<undefined6><![CDATA[5 5/8]]></undefined6>
+		<undefined7><![CDATA[10 1/2]]></undefined7>
+		<bodytype><![CDATA[Fluted]]></bodytype>
+		<captype><![CDATA[B]]></captype>
+		<mountingoption><![CDATA[Option B]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8402-43BA]]></catalognumber>
+		<undefined1><![CDATA[R-8402-43BA.jpg]]></undefined1>
+		<undefined2><![CDATA[84004002]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8402-43BA]]></catalognumber>
+		<undefined1><![CDATA[R-8402-43BA.jpg]]></undefined1>
+		<undefined2><![CDATA[84024301]]></undefined2>
+		<undefined3><![CDATA[Bollard]]></undefined3>
+		<undefined4><![CDATA[108]]></undefined4>
+		<dimensions><![CDATA[38]]></dimensions>
+		<undefined6><![CDATA[5 3/8]]></undefined6>
+		<undefined7><![CDATA[10 15/16]]></undefined7>
+		<bodytype><![CDATA[Plain]]></bodytype>
+		<captype><![CDATA[B]]></captype>
+		<mountingoption><![CDATA[Option B]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8402-43BB]]></catalognumber>
+		<undefined1><![CDATA[R-8402-43BB.jpg]]></undefined1>
+		<undefined2><![CDATA[84004002]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8402-43BB]]></catalognumber>
+		<undefined1><![CDATA[R-8402-43BB.jpg]]></undefined1>
+		<undefined2><![CDATA[84024302]]></undefined2>
+		<undefined3><![CDATA[Bollard]]></undefined3>
+		<undefined4><![CDATA[88]]></undefined4>
+		<dimensions><![CDATA[38]]></dimensions>
+		<undefined6><![CDATA[5 3/8]]></undefined6>
+		<undefined7><![CDATA[8]]></undefined7>
+		<bodytype><![CDATA[Plain]]></bodytype>
+		<captype><![CDATA[B]]></captype>
+		<mountingoption><![CDATA[Option B]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8402-43BC]]></catalognumber>
+		<undefined1><![CDATA[R-8402-43BC.jpg]]></undefined1>
+		<undefined2><![CDATA[84004002]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8402-43BC]]></catalognumber>
+		<undefined1><![CDATA[R-8402-43BC.jpg]]></undefined1>
+		<undefined2><![CDATA[84024303]]></undefined2>
+		<undefined3><![CDATA[Bollard]]></undefined3>
+		<undefined4><![CDATA[76]]></undefined4>
+		<dimensions><![CDATA[38]]></dimensions>
+		<undefined6><![CDATA[5 3/8]]></undefined6>
+		<undefined7><![CDATA[10 1/2]]></undefined7>
+		<bodytype><![CDATA[Plain ]]></bodytype>
+		<captype><![CDATA[B]]></captype>
+		<mountingoption><![CDATA[Option B]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43DA]]></catalognumber>
+		<undefined1><![CDATA[R-8401-43DA.jpg]]></undefined1>
+		<undefined2><![CDATA[84004004]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43DA]]></catalognumber>
+		<undefined1><![CDATA[R-8401-43DA.jpg]]></undefined1>
+		<undefined2><![CDATA[84014301]]></undefined2>
+		<undefined3><![CDATA[Bollard]]></undefined3>
+		<undefined4><![CDATA[111]]></undefined4>
+		<dimensions><![CDATA[36]]></dimensions>
+		<undefined6><![CDATA[5 5/8]]></undefined6>
+		<undefined7><![CDATA[10 15/16]]></undefined7>
+		<bodytype><![CDATA[Fluted]]></bodytype>
+		<captype><![CDATA[D]]></captype>
+		<mountingoption><![CDATA[Option D]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43DB]]></catalognumber>
+		<undefined1><![CDATA[R-8401-43DB.jpg]]></undefined1>
+		<undefined2><![CDATA[84004004]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43DB]]></catalognumber>
+		<undefined1><![CDATA[R-8401-43DB.jpg]]></undefined1>
+		<undefined2><![CDATA[84014302]]></undefined2>
+		<undefined3><![CDATA[Bollard]]></undefined3>
+		<undefined4><![CDATA[91]]></undefined4>
+		<dimensions><![CDATA[36]]></dimensions>
+		<undefined6><![CDATA[5 5/8]]></undefined6>
+		<undefined7><![CDATA[8]]></undefined7>
+		<bodytype><![CDATA[Fluted]]></bodytype>
+		<captype><![CDATA[D]]></captype>
+		<mountingoption><![CDATA[Option D]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43DC]]></catalognumber>
+		<undefined1><![CDATA[R-8401-43DC.jpg]]></undefined1>
+		<undefined2><![CDATA[84004004]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43DC]]></catalognumber>
+		<undefined1><![CDATA[R-8401-43DC.jpg]]></undefined1>
+		<undefined2><![CDATA[84014303]]></undefined2>
+		<undefined3><![CDATA[Bollard]]></undefined3>
+		<undefined4><![CDATA[79]]></undefined4>
+		<dimensions><![CDATA[36]]></dimensions>
+		<undefined6><![CDATA[5 5/8]]></undefined6>
+		<undefined7><![CDATA[10 1/2]]></undefined7>
+		<bodytype><![CDATA[Fluted]]></bodytype>
+		<captype><![CDATA[D]]></captype>
+		<mountingoption><![CDATA[Option D]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8402-43DA]]></catalognumber>
+		<undefined1><![CDATA[R-8402-43DA.jpg]]></undefined1>
+		<undefined2><![CDATA[84004004]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8402-43DA]]></catalognumber>
+		<undefined1><![CDATA[R-8402-43DA.jpg]]></undefined1>
+		<undefined2><![CDATA[84024301]]></undefined2>
+		<undefined3><![CDATA[Bollard]]></undefined3>
+		<undefined4><![CDATA[111]]></undefined4>
+		<dimensions><![CDATA[36]]></dimensions>
+		<undefined6><![CDATA[5 3/8]]></undefined6>
+		<undefined7><![CDATA[10 15/16]]></undefined7>
+		<bodytype><![CDATA[Plain]]></bodytype>
+		<captype><![CDATA[D]]></captype>
+		<mountingoption><![CDATA[Option D]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8402-43DB]]></catalognumber>
+		<undefined1><![CDATA[R-8402-43DB.jpg]]></undefined1>
+		<undefined2><![CDATA[84004004]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8402-43DB]]></catalognumber>
+		<undefined1><![CDATA[R-8402-43DB.jpg]]></undefined1>
+		<undefined2><![CDATA[84024302]]></undefined2>
+		<undefined3><![CDATA[Bollard]]></undefined3>
+		<undefined4><![CDATA[91]]></undefined4>
+		<dimensions><![CDATA[36]]></dimensions>
+		<undefined6><![CDATA[5 3/8]]></undefined6>
+		<undefined7><![CDATA[8]]></undefined7>
+		<bodytype><![CDATA[Plain]]></bodytype>
+		<captype><![CDATA[D]]></captype>
+		<mountingoption><![CDATA[Option D]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8402-43DC]]></catalognumber>
+		<undefined1><![CDATA[R-8402-43DC.jpg]]></undefined1>
+		<undefined2><![CDATA[84004004]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8402-43DC]]></catalognumber>
+		<undefined1><![CDATA[R-8402-43DC.jpg]]></undefined1>
+		<undefined2><![CDATA[84024303]]></undefined2>
+		<undefined3><![CDATA[Bollard]]></undefined3>
+		<undefined4><![CDATA[79]]></undefined4>
+		<dimensions><![CDATA[36]]></dimensions>
+		<undefined6><![CDATA[5 3/8]]></undefined6>
+		<undefined7><![CDATA[10 1/2]]></undefined7>
+		<bodytype><![CDATA[Plain]]></bodytype>
+		<captype><![CDATA[D]]></captype>
+		<mountingoption><![CDATA[Option D]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401]]></catalognumber>
+		<undefined1><![CDATA[R-8401.jpg]]></undefined1>
+		<undefined2><![CDATA[84010006]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-78BA]]></catalognumber>
+		<undefined1><![CDATA[R-8401-78BA.jpg]]></undefined1>
+		<undefined2><![CDATA[84008002]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8403-43AA]]></catalognumber>
+		<undefined1><![CDATA[R-8403-43AA.jpg]]></undefined1>
+		<undefined2><![CDATA[84004001]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8403-43AA]]></catalognumber>
+		<undefined1><![CDATA[R-8403-43AA.jpg]]></undefined1>
+		<undefined2><![CDATA[84034301]]></undefined2>
+		<undefined3><![CDATA[Bollard]]></undefined3>
+		<undefined4><![CDATA[114]]></undefined4>
+		<dimensions><![CDATA[40 15/16]]></dimensions>
+		<undefined6><![CDATA[5 3/8]]></undefined6>
+		<undefined7><![CDATA[10 15/16]]></undefined7>
+		<bodytype><![CDATA[Ring]]></bodytype>
+		<captype><![CDATA[A]]></captype>
+		<mountingoption><![CDATA[Option A]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8403-43AB]]></catalognumber>
+		<undefined1><![CDATA[R-8403-43AB.jpg]]></undefined1>
+		<undefined2><![CDATA[84004001]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8403-43AB]]></catalognumber>
+		<undefined1><![CDATA[R-8403-43AB.jpg]]></undefined1>
+		<undefined2><![CDATA[84034302]]></undefined2>
+		<undefined3><![CDATA[Bollard]]></undefined3>
+		<undefined4><![CDATA[94]]></undefined4>
+		<dimensions><![CDATA[40 15/16]]></dimensions>
+		<undefined6><![CDATA[5 3/8]]></undefined6>
+		<undefined7><![CDATA[8]]></undefined7>
+		<bodytype><![CDATA[Ring]]></bodytype>
+		<captype><![CDATA[A]]></captype>
+		<mountingoption><![CDATA[Option A]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8403-43AC]]></catalognumber>
+		<undefined1><![CDATA[R-8403-43AC.jpg]]></undefined1>
+		<undefined2><![CDATA[84004001]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8403-43AC]]></catalognumber>
+		<undefined1><![CDATA[R-8403-43AC.jpg]]></undefined1>
+		<undefined2><![CDATA[84034303]]></undefined2>
+		<undefined3><![CDATA[Bollard]]></undefined3>
+		<undefined4><![CDATA[89]]></undefined4>
+		<dimensions><![CDATA[40 15/16]]></dimensions>
+		<undefined6><![CDATA[5 3/8]]></undefined6>
+		<undefined7><![CDATA[10 1/2]]></undefined7>
+		<bodytype><![CDATA[Ring]]></bodytype>
+		<captype><![CDATA[A]]></captype>
+		<mountingoption><![CDATA[Option A]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8403-43BA]]></catalognumber>
+		<undefined1><![CDATA[R-8403-43BA.jpg]]></undefined1>
+		<undefined2><![CDATA[84004002]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8403-43BA]]></catalognumber>
+		<undefined1><![CDATA[R-8403-43BA.jpg]]></undefined1>
+		<undefined2><![CDATA[84034301]]></undefined2>
+		<undefined3><![CDATA[Bollard]]></undefined3>
+		<undefined4><![CDATA[108]]></undefined4>
+		<dimensions><![CDATA[38]]></dimensions>
+		<undefined6><![CDATA[5 3/8]]></undefined6>
+		<undefined7><![CDATA[10 15/16]]></undefined7>
+		<bodytype><![CDATA[Ring]]></bodytype>
+		<captype><![CDATA[B]]></captype>
+		<mountingoption><![CDATA[Option B]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8403-43BB]]></catalognumber>
+		<undefined1><![CDATA[R-8403-43BB.jpg]]></undefined1>
+		<undefined2><![CDATA[84004002]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8403-43BB]]></catalognumber>
+		<undefined1><![CDATA[R-8403-43BB.jpg]]></undefined1>
+		<undefined2><![CDATA[84034302]]></undefined2>
+		<undefined3><![CDATA[Bollard]]></undefined3>
+		<undefined4><![CDATA[88]]></undefined4>
+		<dimensions><![CDATA[38]]></dimensions>
+		<undefined6><![CDATA[5 3/8]]></undefined6>
+		<undefined7><![CDATA[8]]></undefined7>
+		<bodytype><![CDATA[Ring]]></bodytype>
+		<captype><![CDATA[B]]></captype>
+		<mountingoption><![CDATA[Option B]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8403-43BC]]></catalognumber>
+		<undefined1><![CDATA[R-8403-43BC.jpg]]></undefined1>
+		<undefined2><![CDATA[84004002]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8403-43BC]]></catalognumber>
+		<undefined1><![CDATA[R-8403-43BC.jpg]]></undefined1>
+		<undefined2><![CDATA[84034303]]></undefined2>
+		<undefined3><![CDATA[Bollard]]></undefined3>
+		<undefined4><![CDATA[76]]></undefined4>
+		<dimensions><![CDATA[38]]></dimensions>
+		<undefined6><![CDATA[5 3/8]]></undefined6>
+		<undefined7><![CDATA[10 1/2]]></undefined7>
+		<bodytype><![CDATA[Ring]]></bodytype>
+		<captype><![CDATA[B]]></captype>
+		<mountingoption><![CDATA[Option B]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8403-43DA]]></catalognumber>
+		<undefined1><![CDATA[R-8403-43DA.jpg]]></undefined1>
+		<undefined2><![CDATA[84004004]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8403-43DA]]></catalognumber>
+		<undefined1><![CDATA[R-8403-43DA.jpg]]></undefined1>
+		<undefined2><![CDATA[84034301]]></undefined2>
+		<undefined3><![CDATA[Bollard]]></undefined3>
+		<undefined4><![CDATA[111]]></undefined4>
+		<dimensions><![CDATA[36]]></dimensions>
+		<undefined6><![CDATA[5 3/8]]></undefined6>
+		<undefined7><![CDATA[10 15/16]]></undefined7>
+		<bodytype><![CDATA[Ring]]></bodytype>
+		<captype><![CDATA[D]]></captype>
+		<mountingoption><![CDATA[Option D]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8403-43DB]]></catalognumber>
+		<undefined1><![CDATA[R-8403-43DB.jpg]]></undefined1>
+		<undefined2><![CDATA[84004004]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8403-43DB]]></catalognumber>
+		<undefined1><![CDATA[R-8403-43DB.jpg]]></undefined1>
+		<undefined2><![CDATA[84034302]]></undefined2>
+		<undefined3><![CDATA[Bollard]]></undefined3>
+		<undefined4><![CDATA[91]]></undefined4>
+		<dimensions><![CDATA[36]]></dimensions>
+		<undefined6><![CDATA[5 3/8]]></undefined6>
+		<undefined7><![CDATA[8]]></undefined7>
+		<bodytype><![CDATA[Ring]]></bodytype>
+		<captype><![CDATA[D]]></captype>
+		<mountingoption><![CDATA[Option D]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8403-43DC]]></catalognumber>
+		<undefined1><![CDATA[R-8403-43DC.jpg]]></undefined1>
+		<undefined2><![CDATA[84004004]]></undefined2>
+		<undefined3><![CDATA[Bollard Cap]]></undefined3>
+		<undefined4><![CDATA[]]></undefined4>
+		<dimensions><![CDATA[]]></dimensions>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[]]></undefined7>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8403-43DC]]></catalognumber>
+		<undefined1><![CDATA[R-8403-43DC.jpg]]></undefined1>
+		<undefined2><![CDATA[84034303]]></undefined2>
+		<undefined3><![CDATA[Bollard]]></undefined3>
+		<undefined4><![CDATA[86]]></undefined4>
+		<dimensions><![CDATA[36]]></dimensions>
+		<undefined6><![CDATA[5 3/8]]></undefined6>
+		<undefined7><![CDATA[10 1/2]]></undefined7>
+		<bodytype><![CDATA[Ring]]></bodytype>
+		<captype><![CDATA[D]]></captype>
+		<mountingoption><![CDATA[Option D]]></mountingoption>
+		<undefined11><![CDATA[]]></undefined11>
+	</node>
+</data>

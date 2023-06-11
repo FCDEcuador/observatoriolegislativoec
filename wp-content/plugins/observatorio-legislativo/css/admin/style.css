@@ -1,0 +1,40 @@
+#thumb {
+	width: 60px;
+}
+
+.vote-list .acf-actions,
+.vote-list .acf-row-handle,
+[data-name="asambleista_obj"] {
+	display: none;
+}
+
+[data-name="asambleista"] input {
+	background: #e8fff1;
+	border: none;
+	color: #056605;
+}
+
+.vote-list .acf-table > tbody > tr:hover {
+	background: #f5ffc9;
+}
+
+.vote-list .acf-table > tbody > tr:nth-child(odd) {
+	background: #f3f3f3;
+}
+
+.vote-list .acf-table > tbody > tr:nth-child(odd):hover {
+	background: #f5ffc9;
+}
+
+.vote-list .acf-table > tbody > tr > td {
+	background: transparent;
+}
+
+.vote-list .acf-table > thead > tr > th {
+	position: relative;
+	color: #ffffff;
+	background: #333;
+	text-align: center;
+}
+
+/*# sourceMappingURL=style.css.map */

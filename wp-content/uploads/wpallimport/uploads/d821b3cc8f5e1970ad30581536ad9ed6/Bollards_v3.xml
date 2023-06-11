@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<catalognumber><![CDATA[8401-43AA]]></catalognumber>
+		<category><![CDATA[Bollards]]></category>
+		<componentnumber><![CDATA[84004001]]></componentnumber>
+		<castingdesc><![CDATA[Bollard Cap]]></castingdesc>
+		<weight><![CDATA[]]></weight>
+		<height><![CDATA[]]></height>
+		<bodydiameter><![CDATA[]]></bodydiameter>
+		<basediameter><![CDATA[]]></basediameter>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43AA]]></catalognumber>
+		<category><![CDATA[Bollards]]></category>
+		<componentnumber><![CDATA[84014301]]></componentnumber>
+		<castingdesc><![CDATA[Bollard]]></castingdesc>
+		<weight><![CDATA[114]]></weight>
+		<height><![CDATA[40 15/16]]></height>
+		<bodydiameter><![CDATA[5 5/8]]></bodydiameter>
+		<basediameter><![CDATA[10 15/16]]></basediameter>
+		<bodytype><![CDATA[Fluted]]></bodytype>
+		<captype><![CDATA[A]]></captype>
+		<mountingoption><![CDATA[Option A]]></mountingoption>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43AB]]></catalognumber>
+		<category><![CDATA[Bollards]]></category>
+		<componentnumber><![CDATA[84004001]]></componentnumber>
+		<castingdesc><![CDATA[Bollard Cap]]></castingdesc>
+		<weight><![CDATA[]]></weight>
+		<height><![CDATA[]]></height>
+		<bodydiameter><![CDATA[]]></bodydiameter>
+		<basediameter><![CDATA[]]></basediameter>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43AB]]></catalognumber>
+		<category><![CDATA[Bollards]]></category>
+		<componentnumber><![CDATA[84014302]]></componentnumber>
+		<castingdesc><![CDATA[Bollard]]></castingdesc>
+		<weight><![CDATA[94]]></weight>
+		<height><![CDATA[40 15/16]]></height>
+		<bodydiameter><![CDATA[5 5/8]]></bodydiameter>
+		<basediameter><![CDATA[8]]></basediameter>
+		<bodytype><![CDATA[Fluted]]></bodytype>
+		<captype><![CDATA[A]]></captype>
+		<mountingoption><![CDATA[Option A]]></mountingoption>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43AC]]></catalognumber>
+		<category><![CDATA[Bollards]]></category>
+		<componentnumber><![CDATA[84004001]]></componentnumber>
+		<castingdesc><![CDATA[Bollard Cap]]></castingdesc>
+		<weight><![CDATA[]]></weight>
+		<height><![CDATA[]]></height>
+		<bodydiameter><![CDATA[]]></bodydiameter>
+		<basediameter><![CDATA[]]></basediameter>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43AC]]></catalognumber>
+		<category><![CDATA[Bollards]]></category>
+		<componentnumber><![CDATA[84014303]]></componentnumber>
+		<castingdesc><![CDATA[Bollard]]></castingdesc>
+		<weight><![CDATA[82]]></weight>
+		<height><![CDATA[40 15/16]]></height>
+		<bodydiameter><![CDATA[5 5/8]]></bodydiameter>
+		<basediameter><![CDATA[10 1/2]]></basediameter>
+		<bodytype><![CDATA[Fluted]]></bodytype>
+		<captype><![CDATA[A]]></captype>
+		<mountingoption><![CDATA[Option A]]></mountingoption>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43BA]]></catalognumber>
+		<category><![CDATA[Bollards]]></category>
+		<componentnumber><![CDATA[84004002]]></componentnumber>
+		<castingdesc><![CDATA[Bollard Cap]]></castingdesc>
+		<weight><![CDATA[]]></weight>
+		<height><![CDATA[]]></height>
+		<bodydiameter><![CDATA[]]></bodydiameter>
+		<basediameter><![CDATA[]]></basediameter>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43BA]]></catalognumber>
+		<category><![CDATA[Bollards]]></category>
+		<componentnumber><![CDATA[84014301]]></componentnumber>
+		<castingdesc><![CDATA[Bollard]]></castingdesc>
+		<weight><![CDATA[108]]></weight>
+		<height><![CDATA[38]]></height>
+		<bodydiameter><![CDATA[5 5/8]]></bodydiameter>
+		<basediameter><![CDATA[10 15/16]]></basediameter>
+		<bodytype><![CDATA[Fluted]]></bodytype>
+		<captype><![CDATA[B]]></captype>
+		<mountingoption><![CDATA[Option B]]></mountingoption>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43BB]]></catalognumber>
+		<category><![CDATA[Bollards]]></category>
+		<componentnumber><![CDATA[84004002]]></componentnumber>
+		<castingdesc><![CDATA[Bollard Cap]]></castingdesc>
+		<weight><![CDATA[]]></weight>
+		<height><![CDATA[]]></height>
+		<bodydiameter><![CDATA[]]></bodydiameter>
+		<basediameter><![CDATA[]]></basediameter>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43BB]]></catalognumber>
+		<category><![CDATA[Bollards]]></category>
+		<componentnumber><![CDATA[84014302]]></componentnumber>
+		<castingdesc><![CDATA[Bollard]]></castingdesc>
+		<weight><![CDATA[88]]></weight>
+		<height><![CDATA[38]]></height>
+		<bodydiameter><![CDATA[5 5/8]]></bodydiameter>
+		<basediameter><![CDATA[8]]></basediameter>
+		<bodytype><![CDATA[Fluted]]></bodytype>
+		<captype><![CDATA[B]]></captype>
+		<mountingoption><![CDATA[Option B]]></mountingoption>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43BC]]></catalognumber>
+		<category><![CDATA[Bollards]]></category>
+		<componentnumber><![CDATA[84004002]]></componentnumber>
+		<castingdesc><![CDATA[Bollard Cap]]></castingdesc>
+		<weight><![CDATA[]]></weight>
+		<height><![CDATA[]]></height>
+		<bodydiameter><![CDATA[]]></bodydiameter>
+		<basediameter><![CDATA[]]></basediameter>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43BC]]></catalognumber>
+		<category><![CDATA[Bollards]]></category>
+		<componentnumber><![CDATA[84014303]]></componentnumber>
+		<castingdesc><![CDATA[Bollard]]></castingdesc>
+		<weight><![CDATA[76]]></weight>
+		<height><![CDATA[38]]></height>
+		<bodydiameter><![CDATA[5 5/8]]></bodydiameter>
+		<basediameter><![CDATA[10 1/2]]></basediameter>
+		<bodytype><![CDATA[Fluted]]></bodytype>
+		<captype><![CDATA[B]]></captype>
+		<mountingoption><![CDATA[Option B]]></mountingoption>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43DA]]></catalognumber>
+		<category><![CDATA[Bollards]]></category>
+		<componentnumber><![CDATA[84004004]]></componentnumber>
+		<castingdesc><![CDATA[Bollard Cap]]></castingdesc>
+		<weight><![CDATA[]]></weight>
+		<height><![CDATA[]]></height>
+		<bodydiameter><![CDATA[]]></bodydiameter>
+		<basediameter><![CDATA[]]></basediameter>
+		<bodytype><![CDATA[]]></bodytype>
+		<captype><![CDATA[]]></captype>
+		<mountingoption><![CDATA[]]></mountingoption>
+	</node>
+	<node>
+		<catalognumber><![CDATA[8401-43DA]]></catalognumber>
+		<category><![CDATA[Bollards]]></category>
+		<componentnumber><![CDATA[84014301]]></componentnumber>
+		<castingdesc><![CDATA[Bollard]]></castingdesc>
+		<weight><![CDATA[111]]></weight>
+		<height><![CDATA[36]]></height>
+		<bodydiameter><![CDATA[5 5/8]]></bodydiameter>
+		<basediameter><![CDATA[10 15/16]]></basediameter>
+		<bodytype><![CDATA[Fluted]]></bodytype>
+		<captype><![CDATA[D]]></captype>
+		<mountingoption><![CDATA[Option D]]></mountingoption>
+	</node>
+</data>
